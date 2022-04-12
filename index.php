@@ -15,7 +15,7 @@
                     <div class="row d-flex">
                         <div class="col-md d-flex ">
                             <div><span class="icon-phone2" style="color: black; font-size: xx-large;"></span></div>&nbsp;
-                            <span class="text" style="color: black; font-size: large;">0996924890</span>
+                            <span class="text" style="color: black; font-size: large;">09969248900</span>
                         </div>
                         <div class="col-md d-flex ">
                             <div><span class="icon-paper-plane" style="color:black; font-size: xx-large;"></span></div> &nbsp;
